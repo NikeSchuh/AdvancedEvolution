@@ -1,0 +1,11 @@
+name: AdvancedEvolution
+version: 1.0
+author: Philipp (Nike)
+api-version: 1.16
+main: de.philipp.advancedevolution.AdvancedEvolution
+depend: [NBTAPI, CrazyAdvancementsAPI]
+commands:
+  test:
+  advancedevolution:
+    aliases: [ae, advancede, drac]
+

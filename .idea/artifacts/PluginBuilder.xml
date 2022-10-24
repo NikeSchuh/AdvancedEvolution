@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginBuilder">
+    <output-path>$PROJECT_DIR$/../../Server/Development Server/plugins</output-path>
+    <root id="archive" name="PluginBuilder.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="AdvancedEvolution" />
+    </root>
+  </artifact>
+</component>
